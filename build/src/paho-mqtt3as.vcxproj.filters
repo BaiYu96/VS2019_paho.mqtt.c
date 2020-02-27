@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\学习笔记\C++\paho.mqtt.c\src\MQTTAsync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\学习笔记\C++\paho.mqtt.c\src\SSLSocket.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\学习笔记\C++\paho.mqtt.c\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTProtocolClient.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Clients.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\utf-8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\StackTrace.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTPacket.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTPacketOut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Messages.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Tree.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Socket.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Log.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTPersistence.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTProtocolOut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTPersistenceDefault.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\SocketBuffer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Heap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\LinkedList.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTProperties.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\MQTTReasonCodes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\Base64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\SHA1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="F:\学习笔记\C++\paho.mqtt.c\build\src\common_ssl_obj.dir\$(Configuration)\WebSocket.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{E06092E7-64A8-37F4-A747-AE2D434B670E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{26314810-A367-3956-AB27-F49756D97682}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
